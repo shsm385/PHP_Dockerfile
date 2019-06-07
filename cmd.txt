@@ -1,0 +1,10 @@
+#service build
+docker-compose build
+
+#service in 
+docker-compose up
+
+#service stop
+docker-compose stop
+
+
